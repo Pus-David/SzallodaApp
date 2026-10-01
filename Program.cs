@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿ArKiszamitas
+Console.WriteLine();
