@@ -18,7 +18,7 @@ namespace SzallodaApp
 
         public override int ArKiszamitas(int ejszakakSzama)
         {
-            return ExtraSzolgaltatasAr + base.ArKiszamitas(int ejszakakSzama);
+            return ExtraSzolgaltatasAr + base.ArKiszamitas(ejszakakSzama);
         }
 
         public override string ToString()
